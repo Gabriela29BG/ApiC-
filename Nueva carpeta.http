@@ -1,0 +1,6 @@
+@Nueva_carpeta_HostAddress = http://localhost:5160
+
+GET {{Nueva_carpeta_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
